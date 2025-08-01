@@ -67,6 +67,6 @@
 ---
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PANCHAYU-BHANU" /></a></p>
+<p align="center"><a href="#"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PANCHAYU-BHANU" /></a></p>
 <!--
 **PANCHAYU-BHANU/PANCHAYU-BHANU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
